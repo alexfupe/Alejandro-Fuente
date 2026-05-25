@@ -274,6 +274,7 @@ section {
     position: relative;
     border: 1px solid var(--border-color);
     transition: all var(--duration-fast);
+    margin-bottom: 1.5rem;
 }
 
 .timeline-item::before {
